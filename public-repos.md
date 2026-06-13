@@ -22,6 +22,7 @@
 |:----:|---|---|
 | 2019 | [pygame-opengl-cube](https://github.com/thepriben/pygame-opengl-cube) <img height="14" width="14" alt="" title="Public archive" src="https://cdn.jsdelivr.net/gh/primer/octicons@main/icons/archive-16.svg"> | OpenGL cubes in Pygame |
 | 2025 | [orbits-sun-earth-moon](https://github.com/thepriben/orbits-sun-earth-moon) <img height="14" width="14" alt="" title="Public archive" src="https://cdn.jsdelivr.net/gh/primer/octicons@main/icons/archive-16.svg"> | Sun–Earth–Moon orbits in Bevy (ECS learning) |
+| 2025 | [personal-website](https://github.com/thepriben/personal-website) | Personal site — [benoit-prieur.fr](https://benoit-prieur.fr/) (books, articles, chapters, videos) |
 | 2025 | [084](https://github.com/thepriben/084) | Land-use map of Vaucluse from OpenStreetMap / Geofabrik |
 | 2026 | [dataroads-FR84](https://github.com/thepriben/dataroads-FR84) | Road-information prototype for Vaucluse - [@JLZIMMERMANN](https://github.com/JLZIMMERMANN) |
 | 2026 | [StatsWiki](https://github.com/thepriben/StatsWiki) | Forkable Wikipedia pageview rankings (Wikidata + Parquet); [Wikirace](https://statswiki.info/wikirace) — compare article attention over time · [preprint](https://zenodo.org/records/20635610) (*From Events to Encyclopedic Attention*) |
