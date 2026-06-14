@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- This is my personal GitHub, a place for side projects, experiments, and things I build around writing and tinkering. 
-- In my day job I'm an open-source developer on another GitHub account. 
-- Here I keep projects that sit closer to what I publish: [books, articles](https://benoit-prieur.fr/) (*[Programmez!](https://www.programmez.com/)* and others), small innovation ideas, and prototypes.
-- Questions or ideas? Feel free to [open an issue](https://github.com/thepriben/thepriben/issues).
+**[@thepriben](https://github.com/thepriben)** — side projects, experiments, and public companion repos for things I write and build.
 
-See the full [public repositories](./public-repos.md) list.
+Most of it ties back to **[benoit-prieur.fr](https://benoit-prieur.fr/)** — [*Programmez!*](https://www.programmez.com/) articles, chapters, and small prototypes. By day I contribute to open source on another GitHub account; this profile is the public shelf.
+
+📂 **[Public repositories](./public-repos.md)** · 💬 [Questions & ideas](https://github.com/thepriben/thepriben/issues)
