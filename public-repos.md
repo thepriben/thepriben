@@ -5,13 +5,6 @@ Curated list of public repos on [@thepriben](https://github.com/thepriben). Arch
 
 ---
 
-### Simulation challenges
-
-| Year | Repository | Notes |
-|:----:|---|---|
-| 2025 | [ballistic-sim-challenge](https://github.com/thepriben/ballistic-sim-challenge) <sup aria-label="Public archive" style="display:inline-flex;align-items:center;gap:2px;margin-left:4px;padding:0 5px;height:15px;font:500 9px/1 -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;color:#636c76;background:#f6f8fa;border:1px solid #d1d9e0;border-radius:100px;vertical-align:middle;white-space:nowrap"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M1.75 3A1.75 1.75 0 0 1 3.5 1.25h9A1.75 1.75 0 0 1 14.25 3v1.5A1.75 1.75 0 0 1 12.5 6.25h-9A1.75 1.75 0 0 1 1.75 4.5V3Zm0 3.5v5.25c0 .966.784 1.75 1.75 1.75h9.5a1.75 1.75 0 0 0 1.75-1.75V6.5h-13Z"/></svg>archive</sup> | Ballistic rocket simulation challenge ([Elodin](https://elodin.systems/)) |
-| 2025 | [drones-radar](https://github.com/thepriben/drones-radar) <sup aria-label="Public archive" style="display:inline-flex;align-items:center;gap:2px;margin-left:4px;padding:0 5px;height:15px;font:500 9px/1 -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;color:#636c76;background:#f6f8fa;border:1px solid #d1d9e0;border-radius:100px;vertical-align:middle;white-space:nowrap"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M1.75 3A1.75 1.75 0 0 1 3.5 1.25h9A1.75 1.75 0 0 1 14.25 3v1.5A1.75 1.75 0 0 1 12.5 6.25h-9A1.75 1.75 0 0 1 1.75 4.5V3Zm0 3.5v5.25c0 .966.784 1.75 1.75 1.75h9.5a1.75 1.75 0 0 0 1.75-1.75V6.5h-13Z"/></svg>archive</sup> | Radar & drone-detection challenge ([Elodin](https://elodin.systems/)) |
-
 ### *Programmez!*, articles & talks
 
 | Year | Repository | Notes |
@@ -42,3 +35,10 @@ Curated list of public repos on [@thepriben](https://github.com/thepriben). Arch
 | 2026 | [dataroads-FR84](https://github.com/thepriben/dataroads-FR84) | Road-information prototype for Vaucluse — [@JLZIMMERMANN](https://github.com/JLZIMMERMANN) |
 | 2026 | [StatsWiki](https://github.com/thepriben/StatsWiki) | Forkable Wikipedia pageview rankings (Wikidata + Parquet); [Wikirace](https://statswiki.info/wikirace) · [preprint](https://zenodo.org/records/20635610) (*From Events to Encyclopedic Attention*) |
 | 2026 | [limpide](https://github.com/thepriben/limpide) | View, strip EXIF & convert HEIC to JPEG — browser-only |
+
+### Simulation challenges
+
+| Year | Repository | Notes |
+|:----:|---|---|
+| 2025 | [ballistic-sim-challenge](https://github.com/thepriben/ballistic-sim-challenge) <sup aria-label="Public archive" style="display:inline-flex;align-items:center;gap:2px;margin-left:4px;padding:0 5px;height:15px;font:500 9px/1 -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;color:#636c76;background:#f6f8fa;border:1px solid #d1d9e0;border-radius:100px;vertical-align:middle;white-space:nowrap"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M1.75 3A1.75 1.75 0 0 1 3.5 1.25h9A1.75 1.75 0 0 1 14.25 3v1.5A1.75 1.75 0 0 1 12.5 6.25h-9A1.75 1.75 0 0 1 1.75 4.5V3Zm0 3.5v5.25c0 .966.784 1.75 1.75 1.75h9.5a1.75 1.75 0 0 0 1.75-1.75V6.5h-13Z"/></svg>archive</sup> | Ballistic rocket simulation challenge |
+| 2025 | [drones-radar](https://github.com/thepriben/drones-radar) <sup aria-label="Public archive" style="display:inline-flex;align-items:center;gap:2px;margin-left:4px;padding:0 5px;height:15px;font:500 9px/1 -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;color:#636c76;background:#f6f8fa;border:1px solid #d1d9e0;border-radius:100px;vertical-align:middle;white-space:nowrap"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M1.75 3A1.75 1.75 0 0 1 3.5 1.25h9A1.75 1.75 0 0 1 14.25 3v1.5A1.75 1.75 0 0 1 12.5 6.25h-9A1.75 1.75 0 0 1 1.75 4.5V3Zm0 3.5v5.25c0 .966.784 1.75 1.75 1.75h9.5a1.75 1.75 0 0 0 1.75-1.75V6.5h-13Z"/></svg>archive</sup> | Radar & drone-detection challenge |
