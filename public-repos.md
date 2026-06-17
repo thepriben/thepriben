@@ -35,6 +35,7 @@ Curated list of public repos on [@thepriben](https://github.com/thepriben). Arch
 | 2026 | [dataroads-FR84](https://github.com/thepriben/dataroads-FR84) | Road-information prototype for Vaucluse — [@JLZIMMERMANN](https://github.com/JLZIMMERMANN) |
 | 2026 | [StatsWiki](https://github.com/thepriben/StatsWiki) | Forkable Wikipedia pageview rankings (Wikidata + Parquet); [Wikirace](https://statswiki.info/wikirace) · [preprint](https://zenodo.org/records/20635610) (*From Events to Encyclopedic Attention*) |
 | 2026 | [limpide](https://github.com/thepriben/limpide) | View, strip EXIF & convert HEIC to JPEG — browser-only |
+| 2026 | [sports-facilities-africa-osm-2025](https://github.com/thepriben/sports-facilities-africa-osm-2025) | Mapping sports facilities across Africa from OpenStreetMap — [interactive site](https://thepriben.github.io/sports-facilities-africa-osm-2025/); preprint forthcoming |
 
 ### Simulation challenges
 
