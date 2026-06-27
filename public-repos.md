@@ -37,7 +37,7 @@ Curated list of public repos on [@thepriben](https://github.com/thepriben). Arch
 | 2026 | [limpide](https://github.com/thepriben/limpide) | View, strip EXIF & convert HEIC to JPEG — browser-only |
 | 2026 | [sports-facilities-africa-osm-2026](https://github.com/thepriben/sports-facilities-africa-osm-2026) | Mapping sports facilities across Africa from OpenStreetMap — [interactive site](https://thepriben.github.io/sports-facilities-africa-osm-2026/); [preprint](https://zenodo.org/records/20738614) |
 | 2026 | [degaulle-map](https://github.com/thepriben/degaulle-map) | Where was Charles de Gaulle? Sourced WWII locations, 1940–1945 — [interactive site](https://thepriben.github.io/degaulle-map/) |
-| 2026 | [armenia-election-atlas](https://github.com/thepriben/armenia-election-atlas) | Trilingual (EN/HY/FR) geographic atlas of Armenian parliamentary elections — a portal covering the 2021 and 2026 votes (CEC data, GeoNames + OpenStreetMap, D3 maps) — [interactive site](https://thepriben.github.io/armenia-election-atlas/) |
+| 2026 | [armenia-election-atlas](https://github.com/thepriben/armenia-election-atlas) | Trilingual (EN/HY/FR) geographic atlas of Armenian parliamentary elections — a portal covering the 2012, 2017, 2018, 2021 and 2026 votes (CEC data, GeoNames + OpenStreetMap, D3 maps) — [interactive site](https://thepriben.github.io/armenia-election-atlas/) |
 
 ### Simulation challenges
 
